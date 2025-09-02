@@ -1,0 +1,58 @@
+# AI Exploration: Google Gemini Pro 🌟
+
+Today, I tried out the **Google Gemini Pro model** through the student offer.  
+Here’s what I explored and created:
+
+---
+
+## 🖼 Image Generation
+I used the **image generator** to create some images.  
+Here are the results:
+
+1. ![Generated Image 1](path/to/image1.png)  
+2. ![Generated Image 2](path/to/image2.png)  
+3. ![Generated Image 3](path/to/image3.png)  
+
+---
+
+## 🎥 Video Generation
+Generated videos using **Veo3**:  
+
+1. [Video 1](path/to/video1.mp4)  
+2. [Video 2](path/to/video2.mp4)  
+3. [Video 3](path/to/video3.mp4)  
+
+---
+
+## 🌐 Canvas Websites
+Created websites using the **Canvas feature**:  
+
+1. [Website 1](link-to-website1)  
+2. [Website 2](link-to-website2)  
+3. [Website 3](link-to-website3)  
+
+---
+
+## 🖌 Image Editing with Nano Banana
+
+I experimented with **Nano Banana** to edit an image.  
+You can see the **original input**, the **edited result**, and a **screenshot showing both with the prompt**.
+
+- **Input Image:**  
+  ![Input Image](path/to/input.png)  
+
+- **Edited Result:**  
+  ![Edited Image](path/to/edited.png)  
+
+- **Screenshot with Prompt:**  
+  ![Screenshot](path/to/screenshot.png)  
+
+
+---
+
+## 🔜 Next Steps
+My exploration will continue! I plan to:  
+- Leverage the full power of **Google Gemini**  
+- Use APIs and all other possible tools and features  
+
+Stay tuned for more experiments! 🚀
