@@ -9,7 +9,7 @@ Here’s what I explored and created:
 I used the **image generator** to create some images.  
 Here are the results:
 
-1. ![Generated Image 1](./Gemini%20Generated%20Image_g5l7a3g5l7a3g5l7.png)  
+1. ![Generated Image 1](./Gemini_Generated_Image_g5l7a3g5l7a3g5l7.png)  
 2. ![Generated Image 2](path/to/image2.png)  
 3. ![Generated Image 3](path/to/image3.png)  
 
@@ -56,4 +56,5 @@ My exploration will continue! I plan to:
 - Use APIs and all other possible tools and features  
 
 Stay tuned for more experiments! 🚀
+
 
