@@ -10,7 +10,7 @@ I used the **image generator** to create some images.
 Here are the results:
 
 1. [![Generated Image 1](https://raw.githubusercontent.com/Yash-YT-tech/AI/7d70575cd2548fcc4676a03fa1b001d8ddd1a8dd/Google%20Gemini/images/Gemini_Generated_Image_g5l7a3g5l7a3g5l7.png)](https://raw.githubusercontent.com/Yash-YT-tech/AI/7d70575cd2548fcc4676a03fa1b001d8ddd1a8dd/Google%20Gemini/images/Gemini_Generated_Image_g5l7a3g5l7a3g5l7.png)  
-2. ![Generated Image 2](./Tanjiro%20x%20demon.png)  
+2. ![Generated Image 2](https://raw.githubusercontent.com/Yash-YT-tech/AI/66b8df562078f153e63a3bed08a94460409c8d55/Google%20Gemini/images/Tanjiro%20x%20demon.png) 
 3. ![Generated Image 3](path/to/image3.png)  
 
 ---
@@ -56,6 +56,7 @@ My exploration will continue! I plan to:
 - Use APIs and all other possible tools and features  
 
 Stay tuned for more experiments! 🚀
+
 
 
 
