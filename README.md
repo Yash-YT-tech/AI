@@ -12,5 +12,7 @@ This is just for learning and experimenting with AI.
 ---
 Made by me, for me. 😊
 
+---
+
 ### Yash
 
