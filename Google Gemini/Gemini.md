@@ -27,7 +27,7 @@ Generated videos using **Veo3**:
 
 ## 🌐 Canvas Websites
 Created websites using the **Canvas feature**:  
-[3 Websites File (Raw)](https://raw.githubusercontent.com/Yash-YT-tech/AI/main/Google%20Gemini/canvas%20websites/weblinks.md)
+[3 Websites File](https://github.com/Yash-YT-tech/AI/blob/main/Google%20Gemini/canvas%20websites/weblinks.md)
 
 ---
 
@@ -54,6 +54,7 @@ My exploration will continue! I plan to:
 - Use APIs and all other possible tools and features  
 
 Stay tuned for more experiments! 🚀
+
 
 
 
