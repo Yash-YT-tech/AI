@@ -1,7 +1,7 @@
 
 <!-- Header with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00000center=true&vCenter=true&width=600&lines=🚀+Yash's+AI+Experiment;Using+AI+LLM+Tools+Agents;Explore+→+Learn+→+Apply+→+Result" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000 center=true&vCenter=true&width=600&lines=🚀+Yash's+AI+Experiment;Using+AI+LLM+Tools+Agents;Explore+→+Learn+→+Apply+→+Result" alt="Typing Animation" />
 </h1>
 
 
