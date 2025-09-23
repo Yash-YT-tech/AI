@@ -6,7 +6,7 @@
 
 
 
-# My AI Experiments 🤖
+# My AI Experiments🤖
 
 This repo is where I try out different AI tools and software.  
 I explore how they work, test their outputs, and share what I learn.  
