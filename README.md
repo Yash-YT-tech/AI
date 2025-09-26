@@ -18,7 +18,7 @@
 
 This is just for learning and experimenting with AI.
 ---
-Made by me, for me. 😊
+`Made by me, for me. 😊`
 
 ---
 ## Added Links
