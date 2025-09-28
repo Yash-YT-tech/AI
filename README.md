@@ -21,7 +21,7 @@ This is just for learning and experimenting with AI.
 `Made by me, for me. 😊`
 
 ---
-## Added Links`
+## `Added Links`
 
 ### **https://github.com/Yash-YT-tech/AI/tree/main/Google%20Gemini**
 
