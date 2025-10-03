@@ -9,7 +9,7 @@
 # `My AI Experiments🤖`
 
 `This repo is where I try out different AI tools and software.`
-`I explore how they work, test their outputs, and share what I learn.` 
+`I explore how they work, test their outputs, and share what I learn.`  
 
 ## `What’s Inside`
 - `AI experiments and demos`
